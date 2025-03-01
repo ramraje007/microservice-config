@@ -1,4 +1,7 @@
+
 spring:
+  application:
+     name: config-default
   h2:
     console:
       enabled: true
